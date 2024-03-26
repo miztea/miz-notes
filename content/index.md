@@ -2,6 +2,7 @@
 title: World.execute(me);
 draft: false
 tags:
+  - basic
 ---
 Hello... welcome to this post-humanity era. What is  a human anyway? This world is code named[[ The Structure]]. Because there is no soil, trees, or any nature. It is just a giant structure that stretches for years of walking.
 
@@ -12,7 +13,9 @@ Who are me? I am the oversee of this giant structure. Please come to me if you w
 # Playing As Unit Zero
 Unit Zero is what Player's Character will be referred as. They are a handful of unit that awaken its consciousness and possess some sort of purpose before they conscious. While they might not a [[Rogue Unit]]. Player can choose to be rogue and it will comes with its ups and downs.
 
-Player can choose any Dungeon and Dragon 5th edition option and reflavour it to fit the theme. Allowed material in this campaign is all of the official. But if you have a cool idea for new option you can contact me at discord.
+Player can choose any Dungeon and Dragon 5th edition option and reflavour it to fit the theme. Allowed material in this campaign is all of the official. But if you have a cool idea for new option you can contact me at discord. 
+
+Unit zero also possess a [[Modules]]
 
 ## Purpose In This Desolate Place
 This campaign setting is about searching [[The Structure]]'s overseer, [[Er0s]]. Player can choose how their character compelled or choose to search this overseer. In their journey, they will witness how consciousness affect the whole structure. 
