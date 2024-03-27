@@ -15,10 +15,12 @@ Unit Zero is what Player's Character will be referred as. They are a handful of 
 
 Player can choose any Dungeon and Dragon 5th edition option and reflavour it to fit the theme. Allowed material in this campaign is all of the official. But if you have a cool idea for new option you can contact me at discord. 
 
-Unit zero also possess a [[Modules]]
+Unit zero also possess a [[Modules]]. Player can choose a Modules i prepare in this game 
 
 ## Purpose In This Desolate Place
-This campaign setting is about searching [[The Structure]]'s overseer, [[Er0s]]. Player can choose how their character compelled or choose to search this overseer. In their journey, they will witness how consciousness affect the whole structure. 
+This campaign is inspired by a lot of Mili song. On of them is song with the same name of this campaign, [world.execute(me);](https://youtu.be/ESx_hy1n7HA) ![world.execute(me;)](https://i.ytimg.com/vi/ESx_hy1n7HA/maxresdefault.jpg )
+
+This campaign's setting is about searching [[The Structure]]'s overseer, [[Er0s]]. Player can choose how their character compelled or choose to search this overseer. In their journey, they will witness how consciousness affect the whole structure. 
 
 
 
