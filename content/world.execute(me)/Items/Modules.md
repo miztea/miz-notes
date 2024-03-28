@@ -16,13 +16,13 @@ A module's level is indicated using the numbers written after the letter M.
 | M4   | Module level 4   |
 
 # Information Module (M2)
-Module use for obtaining and sharing information, securing data, and rewrite data. 
+Information module allowed its user to obtain and share information in the heat of battle.
 ## Pinpoint Weakness (3 Charges)
-(M3 or above) A Unit that hold this module can spend 3 charges and its action to seek any weakness of an enemy. User must do a Intelligent or Wisdom check against the target DC. User can choose to reveal one of the vulnerable point and get its AC and Hit Point or reveal Core position and its AC and Hit Point.
+(M3 or above) A Unit that hold this module can spend 3 charges and its action to seek any weakness of an enemy. User must do a Intelligent or Wisdom (Investigation or Perception) check against the target DC. User can choose to reveal a number of equal to the Unit's Intelligent or Wisdom Modifier (minimum of one) the vulnerable point and get its AC and Hit Point or reveal Core position and its AC and Hit Point.
 
-Hitting this vulnerable point and core will do various thing to enemies behavior, see vulnerable point for more information.
+Hitting this vulnerable point and core will do various thing to enemies behavior, see [[vulnerable point]] for more information.
 ## Calculating Maneuver (4 Charges)
-(M2 or above) A Unit that hold this module can spend 4 charges and its action and its bonus action to calculate an effective way to attack an enemy, providing that unit an advantage. User must do a Intelligent or Wisdom check against the target DC. This advantage will last until the start of this unit next turn.
+(M2 or above) A Unit that hold this module can spend 4 charges and its bonus action to calculate an effective way to attack an enemy, providing that unit an advantage. User must do a Intelligent or Wisdom check against the target DC. This advantage will last until the start of this unit next turn.
 ## Heightened and Sharing Senses (Passive)
 (M3 or above) A Unit that hold this module is automatically share information and advantage that was caused by information to any Unit in 30 feet radius of the holder. 
 ## Reactive Senses (3 Charges)
