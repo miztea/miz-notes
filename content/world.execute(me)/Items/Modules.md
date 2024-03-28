@@ -7,10 +7,13 @@ tags:
 Module is a set of hardware and software that a Unit can use to do various thing. Unit can only hold up to 5 slot of modules at a time. Each of the module's weight is indicated by their level. The level on a module also indicates the the number of abilities it grants. When a modules get upgraded, it gain new abilitiy. Unit can change module once per long rest. A module can only hold 10 charges and the charges it has will recharge after long rest.
 
 A module's level is indicated using the numbers written after the letter M.
-Example is
-_______________________
-| M1 | Module Level 1 |
-| M2 | Module Level 2 |
+
+| M(n) | Module level (n) |
+|------|------------------|
+| M1   | Module Level 1   |
+| M2   | Module Level 2   |
+| M3   | Module level 3   |
+| M4   | Module level 4   |
 
 # Information Module (M2)
 Module use for obtaining and sharing information, securing data, and rewrite data. 
