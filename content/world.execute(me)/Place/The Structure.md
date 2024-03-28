@@ -1,5 +1,5 @@
 ---
-title: structure.info
+title: The Structure
 draft: false
 tags:
   - place
