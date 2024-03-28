@@ -4,20 +4,22 @@ draft: false
 tags:
   - items
 ---
-Module is a set of hardware and software that an Unit can use to do various thing. Unit can only hold 4 slot of modules at a time. Modules weight is indicated by their level. The level also indicated the the number of things can do. When the modules upgraded, it gain new usage. Unit can change module once per long rest. A module can only hold 10 charges and will recharge after long rest.
+Module is a set of hardware and software that a Unit can use to do various thing. Unit can only hold up to 5 slot of modules at a time. Each of the module's weight is indicated by their level. The level on a module also indicates the the number of abilities it grants. When a modules get upgraded, it gain new abilitiy. Unit can change module once per long rest. A module can only hold 10 charges and the charges it has will recharge after long rest.
 
 
 
 # Information Module (M2)
 Module use for obtaining and sharing information, securing data, and rewrite data. 
 ## Pinpoint Weakness (3 Charges)
-(M3 or above) A Unit that hold this module can spend 3 charges and its action to seek any weakness of an enemy. User must do a Intelligent or Wisdom check against the target DC. User can choose to reveal one of the vulnerable point and get its AC and Hit Point or reveal Core position. 
+(M3 or above) A Unit that hold this module can spend 3 charges and its action to seek any weakness of an enemy. User must do a Intelligent or Wisdom check against the target DC. User can choose to reveal one of the vulnerable point and get its AC and Hit Point or reveal Core position and its AC and Hit Point.
+
+Hitting this vulnerable point and core will do various thing to enemies behavior, see vulnerable point for more information.
 ## Calculating Maneuver (4 Charges)
 (M2 or above) A Unit that hold this module can spend 4 charges and its action and its bonus action to calculate an effective way to attack an enemy, providing that unit an advantage. User must do a Intelligent or Wisdom check against the target DC. This advantage will last until the start of this unit next turn.
 ## Heightened and Sharing Senses (Passive)
 (M3 or above) A Unit that hold this module is automatically share information and advantage that was caused by information to any Unit in 30 feet radius of the holder. 
 ## Reactive Senses (3 Charges)
-(M4 only) A unit that hold this module can reactively warn other about incoming damage. Holder can spend 3 charges and use its reaction to give 4 Unit (including themselves) advantage on Dexterity saving throws against effects that Unit can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+(M4 only) A unit that hold this module can reactively warn other about incoming damage. Holder can spend 3 charges and use its reaction to give 4 Unit (including themselves) advantage on Dexterity saving throws against effects that they can see, such as traps and spells. To gain this benefit, the holder can't be blinded, deafened, or incapacitated.
 
 
 # Entropy Module (M4)
@@ -37,14 +39,15 @@ A unit that hold this module then can store that many of energy and as a bonus a
 
 
 # Magnetic Module (M3)
-The module that allow its user to control magnetic field. And
+The module that allow its user to control magnetic field.
 ## Magnetic Tool
-At
+Coming Soon
 
 # Gravitation Module (M2)
 This Module allow its user to control a gravitation.
-## 
+
 # Assembly and Disassembly Module (M3)
 ## Assembly
+Coming soon
 ## Disassembly
-
+Coming soon
