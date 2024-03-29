@@ -50,7 +50,7 @@ Coming Soon
 # Gravitation Module (M2)
 Gravitation Module is a sub category of modules a Unit can use. This module allow its user to control gravitation and it weight.
 ## Increase/Decrease Object Weight 
-Holder of this module can spend 3 charges and use its action increase or decrease an object they see in 30 feet. The object size and weight
+Holder of this module can spend 3 charges and use its action increase or decrease an object they see in 30 feet. The object size and weight is TBD.
 # Assembly and Disassembly Module (M3)
 
 ## Assembly
