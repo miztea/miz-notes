@@ -30,7 +30,7 @@ Information Modules is a sub category of modules a Unit can get. These modules a
 Entropy Modules is a sub category of modules a Unit can get. These modules are used for takes control of Entropy.
 ## Maintain Energy (Passive)
 A Unit that hold this module become unaffected to another Entropy effect from another Unit. 
-## Surge of Energy (7 charges)
+## Surge of Energy (5 charges)
 A unit that hold this module can absorb energy from its surrounding and granting the unit Haste effect. Each unit in the 15 feet radius of the holder must make a `DC 8 + Module Level + Unit's Level`. On a failed save the unit suffer 2d6 cold damage, and half damage on a successful save.
 
 If the unit decided to absorb another unit's energy, the targeted unit must make a `DC 8 + Module Level + Unit's Level` Constitution Saving throw. On a failed save the targeted Unit take 8d6 cold damage and got slowed, or half damage on successful save instead. 
