@@ -22,6 +22,7 @@ This campaign is inspired by a lot of Mili's song. On of them is song with the s
 
 This campaign's setting is about searching [[The Structure]]'s overseer, [[Er0s]]. Player can choose how their character compelled or choose to search this overseer. In their journey, they will witness how consciousness affect the whole structure. 
 
-
-
-
+## What's New In This Game?
+This campaign will be a lot of homebrew and new stuff. You can see what's I made below and give me your suggestion comment in my discord
+- [[The Rules]]
+- [[Modules]]

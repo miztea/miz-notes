@@ -39,7 +39,7 @@ The slow and haste last for 1 minutes. The slowed unit make another Constitution
 ## Thermal Regulation (2 charges)
 As an action unit that hold this module can absorb 3d8 point of energy from its surrounding and can burst the energy. Each unit in 15 foot radius cone must make [DC 8 + Module Level + Unit's Level] Dexterity saving throw. An unit energy then absorbed and takes that many as a cold damage or half as much on a successful one. 
 
-A unit that hold this module then can store that many of energy and as a bonus action can burst that energy into 15-foot radius cone. Each unit in its area must make another Dexterity saving throw. An unit takes that many as a fire damage or half as much on a successful one. 
+A unit that hold this module then can store that many of energy and as a bonus action can burst that energy into 15-foot radius cone. Each unit in its area must make another Dexterity saving throw. An unit takes that many as a fire damage or half as much on a successful one
 
 
 # Magnetic Module (M3)
@@ -48,8 +48,9 @@ Coming soon
 Coming Soon
 
 # Gravitation Module (M2)
-coming soon
-
+Gravitation Module is a sub category of modules a Unit can use. This module allow its user to control gravitation and it weight.
+## Increase/Decrease Object Weight 
+Holder of this module can spend 3 charges and use its action increase or decrease an object they see in 30 feet. The object size and weight
 # Assembly and Disassembly Module (M3)
 
 ## Assembly
