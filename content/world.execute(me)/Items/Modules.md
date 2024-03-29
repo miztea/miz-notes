@@ -4,7 +4,7 @@ draft: false
 tags:
   - items
 ---
-Module is a set of hardware and software that **a** Unit can use to do various thing. Unit can only hold _up to_ 4 slot of modules at a time. Each of the module's weight is indicated by their level. The level in a module  also indicate the number of  abilities it grants. When a modules gets upgraded, it gain new ability . A Unit can change their module once per long rest. A module can only hold 10 charges and the charges it has will recharge after long rest.
+Module is a set of hardware and software that a Unit can use to do various thing. Unit can only hold _up to_ 4 slot of modules at a time. Each of the module's weight is indicated by their level. The level in a module  also indicate the number of  abilities it grants. When a modules gets upgraded, it gain new ability . A Unit can change their module once per long rest. A module can only hold 10 charges and the charges it has will recharge after long rest.
 
  A module's level is indicated using the numbers written after the letter M. Example:
 
@@ -27,7 +27,7 @@ Information Modules is a sub category of modules a Unit can get. These modules a
 
 
 # Entropy Module (M4)
-Information Modules is a sub category of modules a Unit can get. These modules are used for takes control of Entropy.
+Entropy Modules is a sub category of modules a Unit can get. These modules are used for takes control of Entropy.
 ## Maintain Energy (Passive)
 A Unit that hold this module become unaffected to another Entropy effect from another Unit. 
 ## Surge of Energy (7 charges)
@@ -51,6 +51,7 @@ Coming Soon
 coming soon
 
 # Assembly and Disassembly Module (M3)
+
 ## Assembly
 coming soon
 ## Disassembly
