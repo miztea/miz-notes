@@ -4,24 +4,30 @@ draft: false
 tags:
   - items
 ---
-Module is a set of hardware and software that an Unit can use to do various thing. Unit can only hold 4 slot of modules at a time. Modules weight is indicated by their level. The level also indicated the the number of things can do. When the modules upgraded, it gain new usage. Unit can change module once per long rest. A module can only hold 10 charges and will recharge after long rest.
+Module is a set of hardware and software that **a** Unit can use to do various thing. Unit can only hold _up to_ 4 slot of modules at a time. Each of the module's weight is indicated by their level. The level in a module  also indicate the number of  abilities it grants. When a modules gets upgraded, it gain new ability . A Unit can change their module once per long rest. A module can only hold 10 charges and the charges it has will recharge after long rest.
 
+ A module's level is indicated using the numbers written after the letter M. Example:
 
-
+| M(n) | Module Level   |
+| ---- | -------------- |
+| M1   | Module Level 1 |
+| M2   | Module Level 2 |
+| M3   | Module Level 3 |
+| M4   | Module Level 4 |
 # Information Module (M2)
-Module use for obtaining and sharing information, securing data, and rewrite data. 
+Information Modules is a sub category of modules a Unit can get. These modules are used for obtaining and sharing information.
 ## Pinpoint Weakness (3 Charges)
-(M3 or above) A Unit that hold this module can spend 3 charges and its action to seek any weakness of an enemy. User must do a Intelligent or Wisdom check against the target DC. User can choose to reveal one of the vulnerable point and get its AC and Hit Point or reveal Core position. 
+(M2 or above) A Unit that holds this module can spend 3 charges and uses their action to seek any weakness of an enemy the Unit can see. The User must do a Intelligent or Wisdom check against the target DC. Upon a success, the User may choose to reveal one of the [[vulnerable point]] and learn of the targeted unit('s) AC, Hit Point or the position of its Core.
 ## Calculating Maneuver (4 Charges)
-(M2 or above) A Unit that hold this module can spend 4 charges and its action and its bonus action to calculate an effective way to attack an enemy, providing that unit an advantage. User must do a Intelligent or Wisdom check against the target DC. This advantage will last until the start of this unit next turn.
+(M2 or above) A Unit that hold this module can spend 4 charges and its bonus action to calculate an effective way to attack an enemy, providing that unit an advantage. User must do a Intelligent or Wisdom check against the target DC. This advantage will last until the start of this unit next turn.
 ## Heightened and Sharing Senses (Passive)
-(M3 or above) A Unit that hold this module is automatically share information and advantage that was caused by information to any Unit in 30 feet radius of the holder. 
+(M3 or above) A Unit that hold this module is automatically share information and advantage that was caused by information to any Unit that they choice in 30 feet radius of the holder. 
 ## Reactive Senses (3 Charges)
 (M4 only) A unit that hold this module can reactively warn other about incoming damage. Holder can spend 3 charges and use its reaction to give 4 Unit (including themselves) advantage on Dexterity saving throws against effects that Unit can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 
 
 # Entropy Module (M4)
-This module can take control one's entropy.
+Information Modules is a sub category of modules a Unit can get. These modules are used for takes control of Entropy.
 ## Maintain Energy (Passive)
 A Unit that hold this module become unaffected to another Entropy effect from another Unit. 
 ## Surge of Energy (7 charges)
@@ -37,14 +43,20 @@ A unit that hold this module then can store that many of energy and as a bonus a
 
 
 # Magnetic Module (M3)
-The module that allow its user to control magnetic field. And
+Coming soon
 ## Magnetic Tool
-At
+Coming Soon
 
 # Gravitation Module (M2)
-This Module allow its user to control a gravitation.
-## 
+coming soon
+
 # Assembly and Disassembly Module (M3)
 ## Assembly
+coming soon
 ## Disassembly
+coming soon
+
+
+
+
 
