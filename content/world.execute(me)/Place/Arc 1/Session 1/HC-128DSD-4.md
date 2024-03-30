@@ -7,7 +7,7 @@ tags:
 ---
 [[Session 1]]
 # Singing Block
-A healthy block that mostly populated by [[cleaning unit]] that was just given sentience. Because they heard that [[Er0s]] is singing they try to sing and making melody too. It appearance just like any other Housing Block. The [[cleaning unit]] that inhabit this place is redesigned it's inner part of Housing and making it their own. Some place is the charging dock, some is their hobby room, some is their reading room, and there's general usage room.
+A lively block primarily inhabited by sentient[[ cleaning units]], newly granted sentience. Upon hearing about [[Er0s]]'s singing, they attempt to sing and create melodies themselves. Outwardly resembling a typical Housing Block, the interior has been transformed by the cleaning units into various spaces, including charging docks, hobby rooms, reading areas, and multipurpose rooms.
 
 ## Corridor
 ![Corridor](https://i.imgur.com/OyxuBPi.png)
