@@ -5,7 +5,12 @@ tags:
   - rules
   - basic
 ---
-
+# Index
+- [[#Body & Core System]]
+- [[#Rogue Unit]]
+	- [[#Degree of Error]]
+- [[#Resonance Event]]
+- [[#Vulnerable Point]]
 # Body & Core System
 The unit comprises three main components: Armor, Inner Bodies, and Core, each with distinct functions. Their HP is divided as follows: 40% for Armor, 30% for Inner Bodies, and 30% for Core (unless specified otherwise).
 
@@ -32,8 +37,8 @@ Units occasionally encounter errors in their code, which can usually be resolved
 
 This error can only be reduced with any repair module. 
 
-# Vulnerable Point
-Every unit possesses a vulnerable point, counted as part of the unit but with separate AC and HP (unless stated otherwise). Destroying this vulnerable point alters the unit's behavior. Players can perform an Intelligent (Investigation) or Wisdom (Perception) check to discern the location of the vulnerable point
-
 # Resonance Event
 Occasionally, conscious units become overwhelmed with emotion and enter into resonance with [[The Structure]]. This resonance may grant the unit partial control over the surrounding infrastructure and imbue it with additional power. However, this resonance also results in the unit losing cognitive abilities and acting solely on emotions aligned with [[The Structure]]. 
+
+# Vulnerable Point
+Every unit possesses a vulnerable point, counted as part of the unit but with separate AC and HP (unless stated otherwise). Destroying this vulnerable point alters the unit's behavior. Players can perform an Intelligent (Investigation) or Wisdom (Perception) check to discern the location of the vulnerable point
