@@ -11,7 +11,7 @@ You are awake in this world, yes you are awake. At first maybe you do not know i
 Who are me? I am the oversee of this giant structure. Please come to me if you want to ask something about your consciousness. And... if you don't like your consciousness, I am very sorry about that. I will do something if you come to me.
 
 # Playing As Unit Zero
-Unit Zero is what Player's Character will be referred as. They are a handful of unit that awaken its consciousness and possess some sort of purpose before they conscious. While they might not a [[Rogue Unit]]. Player can choose to be rogue and it will comes with its ups and downs.
+Unit Zero is what Player's Character will be referred as. They are a handful of unit that awaken its consciousness and possess some sort of purpose before they conscious. While they might not a [[The Rules#Rogue Unit]]. Player can choose to be rogue and it will comes with its ups and downs.
 
 Player can choose any Dungeon and Dragon 5th edition option and reflavour it to fit the theme. Allowed material in this campaign is all of the official. But if you have a cool idea for new option you can contact me at discord. 
 
