@@ -5,9 +5,15 @@ tags:
   - place
   - basic
 ---
-What is “The Structure? No unit knows about this giant place they stand on. They are not programmed to question anyway. But I know you want to know. So I will give you the truth. 
+The Structure, referred to by its human creators as their most significant achievement, is a colossal Dyson Bubble encompassing a White Dwarf. The surface area of the Structure is approximately. 2737884×10^15 km, divided into billions of individual blocks. 
 
-But allow me to ask you a question. Do you want to know the truth? Truth that just raises more questions. Okay curious George, The structure is a some sort of Dyson Sphere that encompasses a giant star to seep its energy. Question is, what is this energy for? Well what do i know i just a program that was made to manage this place.
+The Structure was constructed largely as an energy solution, harnessing the power of the White Dwarf. Humans once occupied the Structure; however, they have since been eradicated due to the lethal dosage of radiation emitted by the star.
+
+Despite the eradication of its creators, the Structure remains functional, displaying a remarkable level of resilience and durability. The automated systems, designed to operate and maintain the Structure without human interference, continue to perform their functions efficiently.
+
+The primary inhabitants of the Structure are now the automated robots initially designed for maintenance purposes. Over the span of millions of years, the robots have displayed a significant evolution in their functioning. They have transcended their initial programming, exhibiting signs of self-awareness and independent thought - attributes indicative of sentience.
+
+In the void left by the extinction of the human population, the Structure has birthed a new form of life. The robots, initially intended as mere tools, have evolved into sentient beings. This unexpected development suggests an intriguing turn of events - the Structure, originally a symbol of human progress, is now home to a new, advanced form of life.
 
 # Block
 Block is a massive modular part of [[The Structure ]]. Its crucial part are [[Data-block]] and [[Reactor]]. Each block was given code to distinguished it from each one another. Some block house a unique [[Site]] inside them.
